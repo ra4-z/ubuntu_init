@@ -50,4 +50,21 @@ size(unit:GB) : 64
 port: 10005
 ```
 
- 
+# Productivity Tools
+
+The `tools/` directory contains utility scripts to enhance your Ubuntu experience:
+
+## 📸 Screenshot & Annotate Tool
+
+Solves Flameshot's HiDPI/multi-monitor scaling issues with a reliable GNOME Screenshot + Drawing workflow.
+
+**Perfect for 2K/4K monitors and multi-monitor setups.**
+
+```bash
+cd tools/screenshot
+./install.sh
+```
+
+[View full documentation](./tools/README.md)
+
+
